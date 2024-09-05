@@ -34,5 +34,21 @@ let songs = [
     img: "img05",
     coverImg: "img05",
     audio: "idiot"
+  } 
+  ,
+  {
+    name: "Hum Nahi tere dushmano mein",
+    artist: "Sonu Nigam and Alka",
+    img: "img06",
+    coverImg: "img06",
+    audio: "Hum nhi tere dushmano"
+  }
+  ,
+  {
+    name: "Kya Ada kya jalwe",
+    artist: "Udit Narayan",
+    img: "img07",
+    coverImg: "img07",
+    audio: "Kya Ada Kya Jalwe"
   }
 ]
